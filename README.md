@@ -1,6 +1,6 @@
 - 👋 Olá! sou o @BrunoMonteiro7064
 
-『⌨』C++; <HTML>; #CSS; .lua configurator & Discord $BOT's DEV『⌨』
+『⌨』C++; <HTML>; #CSS; .lua configurator & Discord $BOT's DEV『⌨』 
         『🏘』Ymap Devoliper and trying to develop MLO's『🏘』
 
 - 👀 │ STAFF in :
