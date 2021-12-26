@@ -12,11 +12,12 @@
    
    - Configuração FiveM Portugal│https://discord.gg/SqU8VgrZGG
 
-   - 
+   - Designs Portugal│https://discord.gg/RTbxdqpfhz
 
-   -
+   - 𝗙𝗶𝘃𝗲𝗠 | Configuradores de Portugal│https://discord.gg/mqhhRGTUPM
 
-   -
+   - World PVP│https://discord.gg/a3zpKgyAyz
 
-   -
+   - VIPER BOT | OFICIAL│https://discord.gg/4TbGT2MVvF
+
 - 📫 Bruno Monteiro#7064
