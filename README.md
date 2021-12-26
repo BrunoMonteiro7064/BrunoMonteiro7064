@@ -1,7 +1,8 @@
 - 👋 Hi! I'm Bruno Monteiro
 
 『⌨』C++; <HTML>; #CSS; .lua configurator & Discord $BOT's DEV『⌨』 
-        『🏘』Ymap Devoliper and trying to develop MLO's『🏘』
+       
+       『🏘』Ymap Devoliper and trying to develop MLO's『🏘』
 
 
 - 👀 │ STAFF in :
