@@ -1,8 +1,8 @@
-- 👋 Olá! sou o @BrunoMonteiro7064
+- 👋 Hi! I'm Bruno Monteiro
 
 『⌨』C++; <HTML>; #CSS; .lua configurator & Discord $BOT's DEV『⌨』 
-        
-       『🏘』Ymap Devoliper and trying to develop MLO's『🏘』
+        『🏘』Ymap Devoliper and trying to develop MLO's『🏘』
+
 
 - 👀 │ STAFF in :
    - FiveM extra scripts & config│https://discord.gg/Pxde82mE3T
@@ -24,5 +24,4 @@
    - Futebolada 3.0 ©│https://discord.gg/fj7SmU5tjF
 
 
-
-   - 📫 Discord ┇ Bruno Monteiro#7064
+   - 📫 Discord │ Bruno Monteiro#7064
