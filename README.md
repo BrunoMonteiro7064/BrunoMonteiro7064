@@ -15,10 +15,10 @@
    - Configuração FiveM Portugal©│https://discord.gg/SqU8VgrZGG
 
    - Designs Portugal│https://discord.gg/RTbxdqpfhz
+   
+   - Flux modding │ https://discord.gg/uWp74fwaeH
 
    - 𝗙𝗶𝘃𝗲𝗠 | Configuradores de Portugal│https://discord.gg/mqhhRGTUPM
-
-   - Lusitania RP│https://discord.gg/8NrhZZyM2t
 
    - VIPER BOT | OFICIAL│https://discord.gg/4TbGT2MVvF
 
